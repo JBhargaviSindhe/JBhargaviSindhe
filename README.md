@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbhargavisindhe&label=Profile%20views&color=0e75b6&style=flat" alt="jbhargavisindhe" /> </p>
 
-- 🔭 I’m currently working on **Open CV,ML**
+- 🔭 I’m currently working on **Open CV,ML,Front End and Back End Developer**
 
-- 🌱 I’m currently learning **JAVA,Flutter,Python,SDLC**
+- 🌱 I’m currently learning **JAVA,Flutter,Python,SDLC,HTML**
 
 - 📫 How to reach me **bhargavisindhe777@gmail.com**
 
