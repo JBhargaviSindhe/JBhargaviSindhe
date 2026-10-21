@@ -1,26 +1,15 @@
-```html
+<html>
 <p align="center">
-  <img
-    src="https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif"
-    alt="Animated profile banner"
-    width="100%"
-  />
+  <img src="https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif" alt="Animated profile banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm J Bhargavi Sindhe</h1>
-<p align="center">
-  MCA Student · Aspiring Full-Stack Developer · Data Analytics Enthusiast
-</p>
+<p align="center">MCA Student · Aspiring Full-Stack Developer · Data Analytics Enthusiast</p>
 
-<img
-  align="right"
-  alt="Programming and coding animation"
-  width="330"
-  src="https://media.giphy.com/media/wGEymBvo6FUlR9bbda/giphy.gif"
-/>
+<img align="right" alt="Programming and coding animation" width="330" src="https://media.giphy.com/media/wGEymBvo6FUlR9bbda/giphy.gif" />
 
 - 🔭 Exploring frontend and backend development, data analytics, computer vision, and machine learning
-- 🌱 Currently learning Java, Flutter, Python, HTML, Data Analysis, Full Stack using Python.
+- 🌱 Currently learning Java, Flutter, Python, HTML, data analysis, and full-stack development with Python
 - 📫 Email: **bhargavisindhe777@gmail.com**
 
 <br clear="right" />
@@ -46,16 +35,10 @@
 ## GitHub
 
 <p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JBhargaviSindhe&show_icons=true&locale=en&theme=tokyonight"
-    alt="GitHub stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JBhargaviSindhe&amp;show_icons=true&amp;locale=en&amp;theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JBhargaviSindhe&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-    alt="Most used languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JBhargaviSindhe&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=tokyonight" alt="Most used languages" />
 </p>
-```
+</html>
